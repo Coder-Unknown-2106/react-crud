@@ -1,0 +1,25 @@
+{
+   "items":[
+    
+    {
+        "id":1,
+        "name":"Hamam",
+        "price":70
+    },
+    {
+        "id":2,
+        "name":"Chinthal",
+        "price":40
+    },
+    {
+        "id":3,
+        "name":"Himalayan",
+        "price":80
+    },
+    {
+        "id":4,
+        "name":"Rexsona",
+        "price":50
+    }
+   ]
+}

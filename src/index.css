@@ -1,0 +1,10 @@
+.logPage {
+  background-image: url("/src/Images/5172658.jpg");
+  background-size: cover;
+}
+.tableHead {
+  background-color: rgb(7, 141, 252);
+  color: white;
+
+  /* align-content: center; */
+}
